@@ -1,4 +1,4 @@
-<h1 align="center">H3ll00 Un1verse👋 aquí José Alberto Ramírez</h1>
+<h1 align="center">Hola Universo 👽🌌 aquí José Alberto Ramírez</h1>
 <h3 align="center">Desarrollador de Software - Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseramirezoz&label=Profile%20views&color=0e75b6&style=flat" alt="joseramirezoz" /> </p>
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [Desarrollo Frontend](Desarrollo Frontend)
 
-- ⚡ Pasatiempos **Películas, Videojuegos, Investigación, Hacking(Red-Team))**
+- ⚡ Pasatiempos **Películas, Videojuegos, Investigación, Hacking(Red-Team)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,4 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseramirezoz&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=61216e&locale=en&layout=compact" alt="joseramirezoz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joseramirezoz&show_icons=true&theme=dracula&title_color=ffffff&text_color=fffafa&bg_color=232453&locale=en" alt="joseramirezoz" /></p>
-
